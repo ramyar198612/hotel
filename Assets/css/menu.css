@@ -81,7 +81,7 @@ line-height: 40px;
     margin-top: 50px;
 }
 .subhead{
-    background-image: url('/Assets/images/linus-mimietz-H8eA0xFm7KA-unsplash.jpg');
+    background-image: url("../images/linus-mimietz-H8eA0xFm7KA-unsplash.jpg");
     background-position: center;
 }
 
@@ -120,7 +120,7 @@ padding: 20px;
     height:100px;
     margin-left:300px;
 }
-.dog{ background-image:url('/Assets/images/ambitious-studio-rick-barrett-68tAI6RJ-kY-unsplash.jpg');
+.dog{ background-image:url("../images/ambitious-studio-rick-barrett-68tAI6RJ-kY-unsplash.jpg");
      background-repeat: no-repeat;
      background-position:center;
      width:600px;
