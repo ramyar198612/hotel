@@ -1,0 +1,218 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Jost, sans-serif;
+    background-color: black;
+}
+.head{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color:aliceblue;
+}
+#logo{
+    width:200px;
+    height: 50px;   
+}
+#one{
+    width:100px;
+    height:30px;
+    margin-top: 10px;
+ background-color: black;
+    color: aliceblue;
+    border-color: aliceblue; 
+}
+h4{
+    margin-top:10px;
+    padding-top: 10px;
+text-transform: uppercase;
+}
+    li{
+    display:inline;
+    margin: 40px;
+    padding: 30px;   
+}
+.topbar{
+    margin-top:50px;
+}
+ a{
+    text-decoration: none;
+    color: antiquewhite;
+    text-transform: uppercase; 
+}
+.topbar ul li a:hover{
+ color: aqua;
+}
+.good{
+    font-family: "Cormorant Garamond", serif;
+    font-style: normal;
+    font-size: 50px;
+   font-weight: 100;
+Color:rgb(255, 255, 255);
+line-height: 65px;
+ margin-left: 30px;
+ margin-top: 50px;
+ text-transform: uppercase;
+ letter-spacing: 3px;
+ padding-left: 40px;
+}
+.super{
+font-family: "Jost, sans-serif";
+font-style: normal;
+font-weight: 400;
+Color:rgb(255, 255, 255);
+font-size: 24px;
+line-height: 40px;
+
+}
+
+#pen{
+    width:100px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+.whole{
+    display:grid;
+    text-align: center;
+    margin-top: 50px;
+}
+.subhead{
+    background-image: url('/Assets/images/linus-mimietz-H8eA0xFm7KA-unsplash.jpg');
+    background-position: center;
+}
+
+#son{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.mani{
+font-family: "Cormorant Garamond", serif;
+font-Style:normal;
+font-weight: 400;
+Color:rgb(186, 163, 131);
+font-size: 30px;
+line-height: 30px;
+text-transform: uppercase;
+margin-top: 100px;
+text-align: center;
+}
+.bol{
+    margin-left: 50px;
+    padding:50px;
+    color:aliceblue;
+   font-family: "Cormorant Garamond", serif;
+font-style: normal;
+font-weight: 100;
+color: rgb(255, 255, 255);
+font-size: 20px;
+line-height: 27px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+margin-top:50px;
+padding: 20px;
+}
+#dining{
+    width:100px;
+    height:100px;
+    margin-left:300px;
+}
+.dog{ background-image:url('/Assets/images/ambitious-studio-rick-barrett-68tAI6RJ-kY-unsplash.jpg');
+     background-repeat: no-repeat;
+     background-position:center;
+     width:600px;
+     height: 800px;
+     position: relative;
+     border-radius: 50px;
+     border-color: #040404;
+     border-style: solid;
+     margin-top: 20px;
+     padding-left: 10px;   
+}
+.mark{
+    position: absolute;
+    top:150px;
+    left:20px;
+}
+.dove{
+    display:grid;
+    color: white; 
+    margin-top: 300px;  
+}
+ #cock{
+    width:600px;
+    height:800px;
+     border-radius:50px;
+     border-color: #040404;
+     border-style: solid;
+      margin-top: 20px;
+}
+.hen{
+    display: flex;
+    position: relative;  
+}   
+#badge{
+    width: 150px;
+    height:150px;
+    margin-left: 500px;
+    position: absolute;
+    top:50px;
+}
+
+.cuckoo hr{
+    width:200px;
+}
+.myna h1{
+    font-family: "Cormorant Garamond", serif;
+font-style: normal;
+font-weight: 100;
+Color:rgb( 255, 255, 255);
+font-size: 36px;
+line-height: 36px;
+letter-spacing:5px;
+text-transform: uppercase;
+padding-left: 50px;
+padding-top: 20px;
+}
+#papa{
+font-family: "Jost, sans-serif";
+font-style: normal;
+font-weight: 400;
+Color:rgb(238, 238, 238);
+font-size: 18px;
+line-height: 30px;
+}
+.ram{
+    display:flex;
+    justify-content: space-between;
+ padding: 50px;
+ margin-left:20px ;
+}
+.ram p{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.end{
+    display:flex;
+    justify-content: center; 
+}
+.movie ul li a{
+    display:flex;
+    justify-content:space-evenly ; 
+    margin-left: 50px;
+
+}
+.movie h1{
+    text-align: center;
+    margin-left: 10px;
+    padding: 10px;
+}
+.ok{
+    background-image:url('/Assets/images/footer-bg.jpg') ;
+    background-size: cover;
+    background-position: center;
+    margin-top: 100px;
+}
